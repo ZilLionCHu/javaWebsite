@@ -15,7 +15,7 @@
 	<target   name="生成代码" description="生成代码">
 		<gencode rootpath=""/>
 	</target>
-	<target id="deletecode"  name="deletecode" description="删除生成的代码">
+	<target id="deletecode"  name="deletecode" description="删除生成的代码11111">
 			<deletecode  />
 	</target>
 	
